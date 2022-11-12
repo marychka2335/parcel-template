@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://YarosalvGoIT.github.io/parcel-6",
+  "homepage": "https://marychka2335.github.io/parcel-template",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-6/"
